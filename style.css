@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 400px;
+    background-color: darkslategray;
+    color: azure;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
